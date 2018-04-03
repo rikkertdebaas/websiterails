@@ -302,6 +302,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap_form
   byebug
+  capistrano (~> 3.0)
   capistrano-passenger
   capistrano-rails
   capistrano-rvm
